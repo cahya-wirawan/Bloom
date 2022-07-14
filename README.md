@@ -1,4 +1,4 @@
-# Bloom - a Big Science Initiative
+# BLOOM - The World’s Largest Open Multilingual Language Model
 
 ![Bloom - a Big Science Initiative](https://assets.website-files.com/6139f3cdcbbff3a68486761d/62cce3c835539c54f31329b1_image1.png)
 
